@@ -5,15 +5,17 @@ This repository contains Object Oriented Programing homeworks and projects.
 ## Folder Structure
 
 The workspace contains two folders by default but one that include courseworks, where:
+```bash
 .
 ├── ...
-├── `src`: the folder to course works
-│   ├── `UniversityManagementSystem`: this folder contains University Management System's basic UML file.
-│   ├── `ZooInformation`: 
-│   ├── `FlightManagement`:
-│   ├── `OnlineMovieSystem`:
-│   └── `ElevatorSimulation`:
+├── 'src': the folder to course works
+│   ├── 'UniversityManagementSystem': this folder contains University Management Systems basic UML file.
+│   ├── 'ZooInformation': 
+│   ├── 'FlightManagement':
+│   ├── 'OnlineMovieSystem':
+│   └── 'ElevatorSimulation':
 └── ...
+```
 
 ### HW1 - Univesity Management System
 
