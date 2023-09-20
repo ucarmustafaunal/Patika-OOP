@@ -1,18 +1,35 @@
-## Getting Started
+# Welcome To The Patika-OOP Courseworks
 
-Welcome to the Patika-OOP course files. This repository contains Object Oriented Programing homeworks and projects.
+This repository contains Object Oriented Programing homeworks and projects.
 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
+ - `UniversityManagementSystem`: this folder contains University Management System's basic UML file.
+ - `ZooInformation`: 
+ - `FlightManagement`:
+ - `OnlineMovieSystem`:
+ - `ElevatorSimulation`:
 - `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### HW1 - Univesity Management System
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+[UMS UML](https://github.com/ucarmustafaunal/Patika-OOP/tree/main/src/UniversityManagementSystem/UML.png)
 
-## Dependency Management
+### HW2 - Zoo Information
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[Zoo Information](https://github.com/ucarmustafaunal/Patika-OOP/tree/main/src/ZooInformation)
+
+### HW 3 - Flight Management
+
+[Flight Management](https://github.com/ucarmustafaunal/Patika-OOP/tree/main/src/FlightManagement)
+
+### HW 4 - Online Movie System
+
+[OMS](https://github.com/ucarmustafaunal/Patika-OOP/tree/main/src/OnlineMovieSystem)
+
+### HW 5 - Elevator Simulation
+
+[Elevator Sim](https://github.com/ucarmustafaunal/Patika-OOP/tree/main/src/ElevatorSimulation)
