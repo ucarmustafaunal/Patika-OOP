@@ -12,8 +12,8 @@ The workspace contains two folders by default but one that include courseworks, 
 │   ├── 'UniversityManagementSystem': this folder contains University Management Systems basic UML file.
 │   ├── 'ZooInformation': this folder contains Zoo Information UML file.
 │   ├── 'FlightManagement': this folder contains Flight Management UML file.
-│   ├── 'OnlineMovieSystem': 
-│   └── 'ElevatorSimulation': 
+│   ├── 'OnlineMovieSystem': this folder contains Online Movie System UML file.
+│   └── 'ElevatorSimulation': this folder contains Elevator Simulation UML file.
 └── ...
 ```
 
